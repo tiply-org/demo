@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@tiply-dev/tiply':
-        specifier: ^1.0.1
-        version: 1.0.1(@types/react@19.2.17)
+        specifier: ^1.0.2
+        version: 1.0.2(@types/react@19.2.17)
       react:
         specifier: ^19.2.6
         version: 19.2.7
@@ -327,8 +327,8 @@ packages:
   '@rolldown/pluginutils@1.0.1':
     resolution: {integrity: sha512-2j9bGt5Jh8hj+vPtgzPtl72j0yRxHAyumoo6TNfAjsLB04UtpSvPbPcDcBMxz7n+9CYB0c1GxQFxYRg2jimqGw==}
 
-  '@tiply-dev/tiply@1.0.1':
-    resolution: {integrity: sha512-kie2FZJWGcOIJvJq5GGgOpNGGom2RjJV3czyK4Shm2la9L6HKhdnvXAW70iY+c86fJhTX2FX+X2PV5M+L4YpQg==}
+  '@tiply-dev/tiply@1.0.2':
+    resolution: {integrity: sha512-4lkAALcvHkTKf3aA1DoHJe0s5ai1Cgv/q6cYlBA5X0G16EJIT3dHihy4YJgyUUEfqBslBqo0GDAjuOID6e5xpA==}
 
   '@tybys/wasm-util@0.10.2':
     resolution: {integrity: sha512-RoBvJ2X0wuKlWFIjrwffGw1IqZHKQqzIchKaadZZfnNpsAYp2mM0h36JtPCjNDAHGgYez/15uMBpfGwchhiMgg==}
@@ -1501,7 +1501,7 @@ snapshots:
 
   '@rolldown/pluginutils@1.0.1': {}
 
-  '@tiply-dev/tiply@1.0.1(@types/react@19.2.17)':
+  '@tiply-dev/tiply@1.0.2(@types/react@19.2.17)':
     dependencies:
       react: 19.2.7
       react-dom: 19.2.7(react@19.2.7)
