@@ -1,4 +1,4 @@
-import type { HelpData } from "../../../src/types/help";
+import type { HelpData } from "@tiply-dev/tiply";
 
 export const helpData: HelpData = {
   intro: {
